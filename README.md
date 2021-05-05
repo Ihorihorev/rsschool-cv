@@ -1,3 +1,3 @@
 # rsschool-cv
 
-<https://NikolayAlkhimenko.github.io/rsschool-cv/cv>
+<https://ogonolimpijskij.github.io/rsschool-cv/cv>
